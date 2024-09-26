@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "content": "The country was taken over by the Covid 19 pandemic almost an year ago. When the second wave hit, everything around became traumatising. We were plunged into thinking. The scarce medical facilities and increasing number of deaths had not only caused pain to the bereaved families of the dead but also left other in a huge trauma. That’s when we decided to launch Fundzilla. An online fundraiser by:Rishika Jain, Akshaj Rakhecha, Chhayank Bansal, Urvi Rawal, Jairaaj Sarna and Jujhar Singh to contribute to the Covid relief fund.",
+    "image": "https://ik.imagekit.io/0yt8rbpxzju/Rishika/about_gUj-UJMglk.png?updatedAt=1633004117294",
+    "head:": "Our Mission",
+    "class": "box-border flex flex-col items-center content-center px-8 mx-auto leading-6 text-black border-0 border-gray-300 border-solid md:flex-row max-w-7xl lg:px-16"
+  },
+  {
+    "id": 2,
+    "head:": "Our Story ",
+    "content": "“We make a living by what we get, we make a life by what we give”- Winston Churchill A fundraiser to not only raise funds but instill hope and flourish the air of positivity which was need of the hour. We had collaborated with GiveIndia organisation to help the indigent. We organised online events and sessions to engage the youth and elderly in fun activities and channelised their energies. The aim was to bring out the forgotten enthusiasm and excitement and tap into the best talents. With your help, we were able to raise an amount of INR 50,000 .",
+    "image": "https://ik.imagekit.io/0yt8rbpxzju/Rishika/bg1_vYIgqPJbO.png?updatedAt=1632994453059",
+    "class": "box-border flex flex-col items-center content-center px-8 mx-auto mt-2 leading-6 text-black border-0 border-gray-300 border-solid md:mt-20 xl:mt-0 md:flex-row max-w-7xl lg:px-16"
+  }
+]
